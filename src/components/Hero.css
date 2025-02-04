@@ -1,0 +1,23 @@
+.hero {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.hero-text {
+    flex: 1;
+    margin-right: 20px;
+    margin-bottom : 25px;
+}
+
+.hero-illustration {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-illustration img {
+    max-width: 90%;
+    height: auto;
+}
