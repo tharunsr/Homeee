@@ -6,8 +6,8 @@ const Hero = () => {
     return (
         <div className="hero">
             <div className="hero-text">
-                <h3>Welcome to BeautyBasket</h3>
-                <p>Discover amazing products and join our community. Explore, buy, and shop with us!</p>
+            <h3>Bring <span className='brand-word c1'>Brand</span> in your life</h3>
+                <p>The Destination where you can discover amazing products. Explore, buy, and shop with us!</p>
                 <button>Get Started</button>
             </div>
             <div className="hero-illustration">

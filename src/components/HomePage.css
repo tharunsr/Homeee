@@ -2,7 +2,6 @@
 .homepage {
     text-align: center;
     
-    
   }
   .navbar {
     display: flex;
@@ -62,7 +61,7 @@
 }
 
 .marquee-container {
-  background-color: #94d6a8;
+  background-color: #94d6a8; 
   padding: 5px; /* Padding for the container */
   width: 100%; /* Ensure the container covers the full width */
   box-sizing: border-box; /* Include padding in the width */

@@ -5,8 +5,12 @@
     background-color: #f4f4f4;
 }
 
+.hero h3{
+    font-size : 65px;
+}
+
 .hero-text {
-    flex: 1;
+    flex: 1.5;
     margin-right: 20px;
     margin-bottom : 25px;
 }
@@ -21,3 +25,17 @@
     max-width: 90%;
     height: auto;
 }
+
+  
+  .brand-word.c1:hover {
+    color: #94d6a8 ;
+  }
+
+  .brand-word {
+    color: white;
+    text-shadow: 
+  2px 2px 1px black, 
+  2px -1px 1px black, 
+  -1px 1px 1px black, 
+  -1px -1px 1px black; 
+  }
