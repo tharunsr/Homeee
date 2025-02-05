@@ -1,5 +1,6 @@
 .hero {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     padding: 20px;
     background-color: #f4f4f4;
@@ -7,13 +8,18 @@
 
 .hero h3{
     font-size : 65px;
+    padding: 0;
+    margin-bottom : 15px;
 }
 
 .hero-text {
     flex: 1.5;
+    padding: 25px;
     margin-right: 20px;
     margin-bottom : 25px;
 }
+
+
 
 .hero-illustration {
     flex: 1;
@@ -22,7 +28,7 @@
 }
 
 .hero-illustration img {
-    max-width: 90%;
+    max-width: 80%;
     height: auto;
 }
 
