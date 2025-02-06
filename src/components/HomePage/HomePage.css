@@ -1,8 +1,12 @@
 
 .homepage {
-    text-align: center;
-    
+    text-align: center; 
   }
+
+.homepage h2{
+  font-family : "TWK Everett";
+  font-size:65px;
+}
   .navbar {
     display: flex;
     justify-content: space-between;
@@ -27,7 +31,7 @@
     float: left;
   }
   
-  .navbar a {
+  .navbar .link {
     display: block;
     color: black;
     text-align: center;
@@ -35,7 +39,7 @@
     text-decoration: none;
   }
   
-  .navbar a:hover {
+  .navbar .link:hover {
     background-color: black;
     color: white;
   }

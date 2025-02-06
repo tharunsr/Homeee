@@ -1,5 +1,6 @@
 .hero {
     display: flex;
+    font-weight:500;
     flex-wrap: wrap;
     align-items: center;
     padding: 20px;
@@ -8,6 +9,7 @@
 
 .hero h3{
     font-size : 65px;
+    font-family: "TWK Everett";
     padding: 0;
     margin-bottom : 15px;
 }
